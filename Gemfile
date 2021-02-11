@@ -62,4 +62,4 @@ gem "twitter", "~> 7.0"
 
 gem "sidekiq", "~> 6.1"
 
-gem "msgpack", "~> 1.4"
+gem "msgpack", "~> 1.4.1"
