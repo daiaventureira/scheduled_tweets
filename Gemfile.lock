@@ -278,6 +278,7 @@ DEPENDENCIES
   capybara (>= 3.26)
   jbuilder (~> 2.7)
   listen (~> 3.3)
+  msgpack (~> 1.4)
   omniauth (~> 2.0)
   omniauth-rails_csrf_protection (~> 1.0)
   omniauth-twitter (~> 1.4.0)
